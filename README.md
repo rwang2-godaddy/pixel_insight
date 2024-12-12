@@ -34,9 +34,9 @@ Pixel Insights is an innovative, AI-powered solution developed for **GoDaddy**, 
 ## **Technology Stack**
 
 - **Frontend**: React-based UI for a seamless user experience.
-- **Backend**: Flask based server to support image driven domain name generation and tests based domain name generation from two sepearte ports for this prototype
-- **Image Processing**: **Amazon Rekognition** for extracting insights from uploaded images.
-- **Language Processing**: **GPT-4 o Mini** LLM for generating personalized questions and domain suggestions.
+- **Backend**: Flask based server powered by **Amazon Rekognition** and  **GPT-4 o Mini** to support image driven domain name generation and tests based domain name generation from two sepearte ports for this prototype
+   - **Image Processing**: **Amazon Rekognition** for extracting insights from uploaded images.
+   - **Language Processing**: **GPT-4 o Mini** LLM for generating personalized questions and domain suggestions.
 - **Data Evaluation**: Suggestions evaluated against **Domainality Dimensions**.
 - **APIs**: The current prototype get prices from **GPT-4 o Mini** model, for the productization plan, the Domain availability and pricing should be handled via **FIND APIs**.
 
