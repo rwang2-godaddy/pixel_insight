@@ -1,0 +1,14 @@
+Flask
+Pillow
+requests
+'Flask[async]'
+Flask
+boto3
+botocore
+requests
+werkzeug
+flask-cors
+httpx
+pandas
+pyyaml
+gd_auth==1.2.8
