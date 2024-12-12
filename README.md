@@ -10,7 +10,7 @@ Pixel Insights is an innovative, AI-powered solution developed for **GoDaddy**, 
 3. Install the dependencies by running `pip3 install -r requirements.txt` (For installing gd_auth, you need to have access to GoDaddy artifacts. Ping a team member for help)
 4. Authenticate to an AWS account which has access to GoCaaS 
 5. Run `python app.py` launch image driven domain suggestion backend locally
-6. Run `npm start` to start the frontend locally
+6. Install `npm` and Run `npm start` to start the frontend locally
 
 ## **How It Works**
 ### Design Diagram
