@@ -27,8 +27,7 @@ Pixel Insights is an innovative, AI-powered solution developed for **GoDaddy**, 
 - For users without an image, the Domainality Test offers a series of thoughtful, multi-dimensional questions to uncover their ideal domain.
 - Users can "Spill the Tea" by sharing their goals and intentions, providing deeper insights for tailored recommendations.
 
-### 3. Domain Availability & Pricing
-- Domain suggestions are cross-verified for availability and pricing using **GoDaddy APIs**.
+
 
 ---
 
@@ -57,6 +56,10 @@ Pixel Insights is an innovative, AI-powered solution developed for **GoDaddy**, 
 ---
 
 ## **Future Roadmap**
+
+<img width="1088" alt="Screenshot 2024-12-12 at 12 23 41 PM" src="https://github.com/user-attachments/assets/6002e177-2747-48ad-810e-20dad1e2e35a" />
+
+
 
 1. **Enhanced Personalization**:
    - **Vector Database**: Storing text labels for enhanced recommendations.
