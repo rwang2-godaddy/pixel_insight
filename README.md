@@ -64,7 +64,7 @@ Pixel Insights is an innovative, AI-powered solution developed for **GoDaddy**, 
 1. **Enhanced Personalization**:
    - **Vector Database**: Storing text labels for enhanced recommendations.
    - **API Integration**: Integrating with **ReTiRe**,  **Gardrails** , **Vector DBs**  for more advanced personalization and convenient data retrieval. 
-   - Incorporate data from **ReTiRe** and **PGen** APIs for richer, more tailored suggestions.
+   - Incorporate data from **ReTiRe** and Pgen Vector DB, Aftermarket Vector DB for richer, more tailored suggestions.
 
 2. **Social Insights Integration**:
    - Generate domain recommendations using insights from public profiles on Instagram and Pinterest.
