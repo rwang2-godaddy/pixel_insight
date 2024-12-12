@@ -46,8 +46,8 @@ Pixel Insights is an innovative, AI-powered solution developed for **GoDaddy**, 
 
 ### Revenue Potential
 - **Average Revenue per Search**: $0.894.
-- **Targeted Improvement**: 5% conversion rate on searches without clear user intent (51,945 searches).
-- **Projected Additional Daily Revenue**: $2,322.
+- **Targeted Improvement**: 3% conversion rate on searches without clear user intent (51,945 searches).
+- **Projected Additional Daily Revenue**: $1,396.
 
 ### Strategic Value
 - Enhances user engagement through visual and interactive tools.
