@@ -86,7 +86,7 @@ This roadmap aims to enhance personalization, optimize retrieval efficiency, and
 
 1. **Enhanced Personalization**:
    - **Vector Database**: Storing text labels for enhanced recommendations.
-   - **API Integration**: Integrating with **ReTiRe**,  **Gardrails** , **Vector DBs**  for more advanced personalization and convenient data retrieval. 
+   - **API Integration**: Integrating with **ReTiRe**,  **Guardrails** , **Vector DBs**  for more advanced personalization and convenient data retrieval. 
    - Incorporate data from **ReTiRe** and Pgen Vector DB, Aftermarket Vector DB for richer, more tailored suggestions.
 
 2. **Social Insights Integration**:
